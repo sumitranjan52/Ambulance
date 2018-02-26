@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "592944071409",
+    "firebase_url": "https://speech-alert.firebaseio.com",
+    "project_id": "speech-alert",
+    "storage_bucket": "speech-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592944071409:android:f58b12419b622ef0",
+        "android_client_info": {
+          "package_name": "com.ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592944071409-0lkcd91a47a511o7bq67og9q6q9cquq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfSD_bkfGu6yMeihV4IvECIvbLD8MxeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

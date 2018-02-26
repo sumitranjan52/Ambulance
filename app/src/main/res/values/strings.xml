@@ -1,0 +1,30 @@
+<resources>
+    <!-- Other important string goes here -->
+    <string name="app_name">Ambulance Corporate</string>
+    <string name="app_description">Ambulance App</string>
+    <string name="permission_request_title">Location permission needed</string>
+    <string name="permission_request_message">We need you locaation to help to the finest accuracy. We do not use your location notification for any other purposes.</string>
+    <string name="google_direction_api">AIzaSyARzlCX2V4XTJ-O4qEFWJ_mxt2XmWiJedU</string>
+
+    <!-- Shared Preferences string details goes here below -->
+    <string name="permission_file_name">PERMISSIONS</string>
+    <string name="location_permission">LOCATION_PERMISSION</string>
+    <string name="grant_permission_from_settings">We need your permission for working smoothly. Please grant permission in setting.</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="name">Name</string>
+    <string name="email">Email Id</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="register_message">All fields are mandatory. Minimum 6 characters is required for password and 3 characters for others. Phone number is only 10 characters.</string>
+    <string name="title_activity_main">Map</string>
+    <string name="find_ride">Find Ride</string>
+    <string name="pickup_address">Pickup Address</string>
+    <string name="go">Go</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="title_activity_driver_tracking">Map</string>
+</resources>

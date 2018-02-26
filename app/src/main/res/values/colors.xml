@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0000</color>
+    <color name="colorPrimaryDark">#d50000</color>
+    <color name="colorAccent">#6200ea</color>
+
+    <color name="dotDefault">#616161</color>
+    <color name="dotSelected">#fafafa</color>
+
+    <color name="firstSlide">#ff0008</color>
+</resources>
